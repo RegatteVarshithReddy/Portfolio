@@ -17,14 +17,10 @@ Big Data, Data Analytics, and Data Mining.
 #### Bachelor of Computer Science, Mahindra University Aug 2016 - May 2020
 
 ## TECHNICAL SKILLS
-| -------------- | ---------------------------------------------------------------------------------------------- |
-|**Programming Languages**| Python, C/C++, Java, R, Bash, SQL
-|**DevOps Tools**| AWS (EC2, S3, RDS, CloudFormation, Lambda, VPC), Jenkins, Kubernetes, 
-Docker. |
-|**Data Science**| ML Algorithms, Regression Models, Neural Networks, Generative Adversarial
-Networks[GANs], NLP, Python Libraries (Sci-kit Learn, Tensorflow, Keras,
-PyTorch, NLTK, NumPy, Pandas, Matplotlib), ggplot2, Hadoop, PySpark. |
-|**OS**| Windows, MacOS, Linux |
+|**Programming Languages**| Python, C/C++, Java, R, Bash, SQL |
+|**DevOps Tools**         | AWS (EC2, S3, RDS, CloudFormation, Lambda, VPC), Jenkins, Kubernetes, Docker. |
+|**Data Science**         | ML Algorithms, Regression Models, Neural Networks, Generative Adversarial Networks[GANs], NLP, Python Libraries (Sci-kit Learn, Tensorflow, Keras, PyTorch, NLTK, NumPy, Pandas, Matplotlib), ggplot2, Hadoop, PySpark. |
+|**OS**                   | Windows, MacOS, Linux |
 
 ## EXPERIENCE
 
