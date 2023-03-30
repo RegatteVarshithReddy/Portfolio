@@ -1,36 +1,35 @@
 # VARSHITH REDDY REGATTE
 
 ```
-+1(347) 265-3734⋄Harrison, NJ
-E-Mail⋄LinkedIn⋄GitHub
++1(347) 265-3734 * Harrison, NJ * E-Mail * LinkedIn * GitHub
 ```
-OBJECTIVE
+### OBJECTIVE
 
 Seeking data roles leveraging 2+ years of Python, AWS, Kubernetes, Linux, and DevOps experience, combined with
 upcoming Masters in Data Science. Motivated to tackle complex data challenges and deliver innovative solutions.
 
-EDUCATION
+### EDUCATION
 
-Master of Data Science, New Jersey Institute of Technology Expected May 2023
+#### Master of Data Science, New Jersey Institute of Technology               ** Expected May 2023 **
 Relevant Coursework: Machine Learning, Deep Learning, Web Systems Design, Cloud Computing,
 Big Data, Data Analytics, and Data Mining.
 
-Bachelor of Computer Science, Mahindra University Aug 2016 - May 2020
+#### Bachelor of Computer Science, Mahindra University Aug 2016 - May 2020
 
-TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
-Programming Languages Python, C/C++, Java, R, Bash, SQL
-DevOps Tools AWS (EC2, S3, RDS, CloudFormation, Lambda, VPC), Jenkins, Kubernetes,
-Docker.
-Data Science ML Algorithms, Regression Models, Neural Networks, Generative Adversarial
+|** Programming Languages **| Python, C/C++, Java, R, Bash, SQL
+|** DevOps Tools **| AWS (EC2, S3, RDS, CloudFormation, Lambda, VPC), Jenkins, Kubernetes, 
+Docker. |
+|** Data Science **| ML Algorithms, Regression Models, Neural Networks, Generative Adversarial
 Networks[GANs], NLP, Python Libraries (Sci-kit Learn, Tensorflow, Keras,
-PyTorch, NLTK, NumPy, Pandas, Matplotlib), ggplot2, Hadoop, PySpark.
-OS Windows, MacOS, Linux
+PyTorch, NLTK, NumPy, Pandas, Matplotlib), ggplot2, Hadoop, PySpark. |
+|**OS**| Windows, MacOS, Linux |
 
 ## EXPERIENCE
 
-Software Developer May 2019 - Dec 2021
-Wintech Information Service Hyderabad, India
+** Software Developer **                 ** May 2019 - Dec 2021 **
+** Wintech Information Service Hyderabad, India ** 
 
 - Designed, deployed, and maintained highly available and scalable applications on AWS cloud using services such
     as EC2, S3, RDS, and Lambda.
@@ -77,7 +76,7 @@ on a website where user can check the maintenance indexes of different Cars.
 World Cup PredictionA simple project where win ratios of different teams in the most recent 200 matches were
 used as features to predict what the final standing of each team would be in the World Cup using Logistic Regression.
 
-EXTRA-CURRICULAR ACTIVITIES
+### EXTRA-CURRICULAR ACTIVITIES
 
 - Working as a Head of the Billiards Club at Mahindra University, Hyderabad, India, from Jan 2017 to May 2020
 - Served as the Head of Logistics at the AIRO 2020 - Mahindra University Sports Fest, Hyderabad, India, from
@@ -87,9 +86,7 @@ EXTRA-CURRICULAR ACTIVITIES
 - Stood 1st in Business Idea Presentation for presenting a business solution to a problem in Gaming Industry,
     held by our college in a fest.
 
-CERTIFICATION
+### CERTIFICATION
 
 - Become a Machine Learning Specialist by LinkedIn.
 - Python For Data Science by IBM.
-
-
